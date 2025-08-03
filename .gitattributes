@@ -1,0 +1,6 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+.python-version text eol=lf
+pyproject.toml text eol=lf
+uv.lock text eol=lf
